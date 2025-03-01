@@ -1,0 +1,1112 @@
+[
+    {
+        "id": 1,
+        "question": "Cách để chỉnh sửa họ tên của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 2,
+        "question": "Cách để chỉnh sửa giới tính của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 3,
+        "question": "Cách để chỉnh sửa địa chỉ của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 4,
+        "question": "Cách để chỉnh sửa số điện thoại của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 5,
+        "question": "Cách để chỉnh sửa các thông tin liên quan đến bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 1,
+        "question": "Cách để chỉnh sửa họ tên của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 2,
+        "question": "Cách để chỉnh sửa giới tính của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 3,
+        "question": "Cách để chỉnh sửa địa chỉ của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 4,
+        "question": "Cách để chỉnh sửa số điện thoại của bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 5,
+        "question": "Cách để chỉnh sửa các thông tin liên quan đến bệnh nhân?",
+        "answer": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào Danh sách bệnh nhân sau đó chọn nút sửa thông tin bệnh nhân hoặc có thể vào hồ sơ điều trị sau đó chọn nút sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Hello bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 2,
+        "question": "Chào bạn",
+        "answer": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS.",
+        "context": "Chào bạn, chào mừng bạn đến với hệ thống hỗ trợ hỏi đáp VA-VSS."
+    },
+    {
+        "id": 3,
+        "question": "Bạn không trả lời được à",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 4,
+        "question": "Bạn sai rồi",
+        "answer": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn.",
+        "context": "Rất xin lỗi vì không hỗ trợ được bạn, bạn hãy cung cấp thêm thông tin tôi rất mong có thể hỗ trợ được bạn."
+    },
+    {
+        "id": 5,
+        "question": "Hệ thống này làm gì?",
+        "answer": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế.",
+        "context": "Hệ thống VA-VSS giúp bạn quản lý và truy xuất thông tin liên quan đến y tế."
+    },
+    {
+        "id": 11,
+        "question": "Bạn có hỗ trợ 24/7 không?",
+        "answer": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn.",
+        "context": "Hệ thống hỗ trợ VA-VSS hoạt động 24/7 để giải đáp các thắc mắc của bạn."
+    },
+    {
+        "id": 12,
+        "question": "Tôi có thể liên hệ ai khi gặp vấn đề?",
+        "answer": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS.",
+        "context": "Bạn có thể liên hệ bộ phận hỗ trợ kỹ thuật qua số điện thoại hoặc email có trong hệ thống HIS."
+    },
+    {
+        "id": 13,
+        "question": "Dữ liệu của tôi có an toàn không?",
+        "answer": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin.",
+        "context": "Chúng tôi cam kết bảo mật dữ liệu của bạn theo các tiêu chuẩn cao nhất về an ninh thông tin."
+    },
+    {
+        "id": 14,
+        "question": "Hệ thống có hỗ trợ tiếng Việt không?",
+        "answer": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt.",
+        "context": "VA-VSS hỗ trợ đa ngôn ngữ, bao gồm cả tiếng Việt."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ tiếp đón trong hệ thống quản lý bệnh viện HIS có nhiệm vụ gì?",
+        "answer": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng.",
+        "context": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng."
+    },
+    {
+        "id": 2,
+        "question": "Làm thế nào để người dùng đăng nhập vào phần mềm tiếp đón?",
+        "answer": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp.",
+        "context": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp."
+    },
+    {
+        "id": 3,
+        "question": "Chức năng 'Danh sách bệnh nhân' trong phân hệ tiếp đón có ý nghĩa gì?",
+        "answer": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp.",
+        "context": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp."
+    },
+    {
+        "id": 4,
+        "question": "Phần mềm HIS có hỗ trợ đăng ký bệnh nhân BHYT bằng cách nào?",
+        "answer": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD.",
+        "context": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD."
+    },
+    {
+        "id": 5,
+        "question": "Làm thế nào để xử lý khi nhập sai thông tin họ tên hoặc ngày sinh của bệnh nhân?",
+        "answer": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin.",
+        "context": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin."
+    },
+    {
+        "id": 6,
+        "question": "Chức năng đổi phòng khám của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân.",
+        "context": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân."
+    },
+    {
+        "id": 7,
+        "question": "Khi bệnh nhân quay lại khám lần 2, làm thế nào để đăng ký nhanh?",
+        "answer": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân.",
+        "context": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân."
+    },
+    {
+        "id": 8,
+        "question": "Làm sao để biết thẻ BHYT của bệnh nhân hợp lệ?",
+        "answer": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật.",
+        "context": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật."
+    },
+    {
+        "id": 9,
+        "question": "Người dùng cần làm gì nếu gặp lỗi không thể kết nối tới máy chủ?",
+        "answer": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không.",
+        "context": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không."
+    },
+    {
+        "id": 10,
+        "question": "Nếu bệnh nhân yêu cầu thay đổi dịch vụ khám, làm thế nào để sửa?",
+        "answer": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám.",
+        "context": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám."
+    },
+    {
+        "id": 11,
+        "question": "Chức năng tra cứu hồ sơ điều trị giúp ích gì?",
+        "answer": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân.",
+        "context": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân."
+    },
+    {
+        "id": 12,
+        "question": "Người dùng cần làm gì khi nhập sai số điện thoại của bệnh nhân?",
+        "answer": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân.",
+        "context": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 13,
+        "question": "Chức năng xuất biên lai/hóa đơn được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân.",
+        "context": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để thêm yêu cầu sử dụng sổ biên lai/hóa đơn?",
+        "answer": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt.",
+        "context": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt."
+    },
+    {
+        "id": 15,
+        "question": "Nếu nhập sai mật khẩu khi đăng nhập, cần làm gì?",
+        "answer": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu.",
+        "context": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu."
+    },
+    {
+        "id": 16,
+        "question": "Tính năng tra cứu lịch sử điều trị của phần mềm dùng để làm gì?",
+        "answer": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống.",
+        "context": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 17,
+        "question": "Khi hệ thống báo lỗi tài khoản không được thiết lập quyền truy cập, người dùng phải làm gì?",
+        "answer": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân.",
+        "context": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân."
+    },
+    {
+        "id": 18,
+        "question": "Làm thế nào để tìm kiếm bệnh nhân đã từng đến khám?",
+        "answer": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại.",
+        "context": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại."
+    },
+    {
+        "id": 19,
+        "question": "Chức năng 'Cập nhật thẻ' của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân.",
+        "context": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân."
+    },
+    {
+        "id": 20,
+        "question": "Làm thế nào để đổi đối tượng bệnh nhân từ viện phí sang BHYT?",
+        "answer": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân.",
+        "context": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân."
+    },
+    {
+        "id": 21,
+        "question": "Phần mềm quản lý bệnh viện HIS có tính năng gì để hỗ trợ tiếp nhận bệnh nhân nhanh chóng?",
+        "answer": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng.",
+        "context": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng."
+    },
+    {
+        "id": 22,
+        "question": "Chức năng danh sách y lệnh cho phép thực hiện những gì?",
+        "answer": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra.",
+        "context": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra."
+    },
+    {
+        "id": 23,
+        "question": "Nếu muốn thay đổi phòng khám đã đăng ký, người dùng có thể làm gì?",
+        "answer": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân.",
+        "context": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân."
+    },
+    {
+        "id": 24,
+        "question": "Phần mềm HIS có hỗ trợ chỉ định dịch vụ cho bệnh nhân trực tiếp tại tiếp đón không?",
+        "answer": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ.",
+        "context": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ."
+    },
+    {
+        "id": 25,
+        "question": "Nếu nhập sai thông tin mã thẻ BHYT, phần mềm sẽ phản hồi như thế nào?",
+        "answer": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai.",
+        "context": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai."
+    },
+    {
+        "id": 26,
+        "question": "Người dùng cần làm gì khi gặp lỗi không tìm thấy bệnh nhân?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để chỉ định dịch vụ khám cho bệnh nhân mà không qua phòng khám?",
+        "answer": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón.",
+        "context": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón."
+    },
+    {
+        "id": 28,
+        "question": "Khi nào cần sử dụng chức năng sửa yêu cầu khám?",
+        "answer": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại.",
+        "context": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại."
+    },
+    {
+        "id": 29,
+        "question": "Phần mềm HIS có hỗ trợ in hóa đơn ngay sau khi đăng ký bệnh nhân không?",
+        "answer": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân.",
+        "context": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân."
+    },
+    {
+        "id": 30,
+        "question": "Người dùng có thể sửa thông tin bệnh nhân bằng cách nào?",
+        "answer": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ tiếp đón trong hệ thống quản lý bệnh viện HIS có nhiệm vụ gì?",
+        "answer": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng.",
+        "context": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng."
+    },
+    {
+        "id": 2,
+        "question": "Làm thế nào để người dùng đăng nhập vào phần mềm tiếp đón?",
+        "answer": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp.",
+        "context": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp."
+    },
+    {
+        "id": 3,
+        "question": "Chức năng 'Danh sách bệnh nhân' trong phân hệ tiếp đón có ý nghĩa gì?",
+        "answer": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp.",
+        "context": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp."
+    },
+    {
+        "id": 4,
+        "question": "Phần mềm HIS có hỗ trợ đăng ký bệnh nhân BHYT bằng cách nào?",
+        "answer": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD.",
+        "context": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD."
+    },
+    {
+        "id": 5,
+        "question": "Làm thế nào để xử lý khi nhập sai thông tin họ tên hoặc ngày sinh của bệnh nhân?",
+        "answer": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin.",
+        "context": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin."
+    },
+    {
+        "id": 6,
+        "question": "Chức năng đổi phòng khám của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân.",
+        "context": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân."
+    },
+    {
+        "id": 7,
+        "question": "Khi bệnh nhân quay lại khám lần 2, làm thế nào để đăng ký nhanh?",
+        "answer": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân.",
+        "context": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân."
+    },
+    {
+        "id": 8,
+        "question": "Làm sao để biết thẻ BHYT của bệnh nhân hợp lệ?",
+        "answer": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật.",
+        "context": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật."
+    },
+    {
+        "id": 9,
+        "question": "Người dùng cần làm gì nếu gặp lỗi không thể kết nối tới máy chủ?",
+        "answer": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không.",
+        "context": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không."
+    },
+    {
+        "id": 10,
+        "question": "Nếu bệnh nhân yêu cầu thay đổi dịch vụ khám, làm thế nào để sửa?",
+        "answer": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám.",
+        "context": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám."
+    },
+    {
+        "id": 11,
+        "question": "Chức năng tra cứu hồ sơ điều trị giúp ích gì?",
+        "answer": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân.",
+        "context": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân."
+    },
+    {
+        "id": 12,
+        "question": "Người dùng cần làm gì khi nhập sai số điện thoại của bệnh nhân?",
+        "answer": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân.",
+        "context": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 13,
+        "question": "Chức năng xuất biên lai/hóa đơn được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân.",
+        "context": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để thêm yêu cầu sử dụng sổ biên lai/hóa đơn?",
+        "answer": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt.",
+        "context": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt."
+    },
+    {
+        "id": 15,
+        "question": "Nếu nhập sai mật khẩu khi đăng nhập, cần làm gì?",
+        "answer": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu.",
+        "context": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu."
+    },
+    {
+        "id": 16,
+        "question": "Tính năng tra cứu lịch sử điều trị của phần mềm dùng để làm gì?",
+        "answer": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống.",
+        "context": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 17,
+        "question": "Khi hệ thống báo lỗi tài khoản không được thiết lập quyền truy cập, người dùng phải làm gì?",
+        "answer": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân.",
+        "context": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân."
+    },
+    {
+        "id": 18,
+        "question": "Làm thế nào để tìm kiếm bệnh nhân đã từng đến khám?",
+        "answer": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại.",
+        "context": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại."
+    },
+    {
+        "id": 19,
+        "question": "Chức năng 'Cập nhật thẻ' của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân.",
+        "context": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân."
+    },
+    {
+        "id": 20,
+        "question": "Làm thế nào để đổi đối tượng bệnh nhân từ viện phí sang BHYT?",
+        "answer": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân.",
+        "context": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân."
+    },
+    {
+        "id": 21,
+        "question": "Phần mềm quản lý bệnh viện HIS có tính năng gì để hỗ trợ tiếp nhận bệnh nhân nhanh chóng?",
+        "answer": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng.",
+        "context": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng."
+    },
+    {
+        "id": 22,
+        "question": "Chức năng danh sách y lệnh cho phép thực hiện những gì?",
+        "answer": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra.",
+        "context": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra."
+    },
+    {
+        "id": 23,
+        "question": "Nếu muốn thay đổi phòng khám đã đăng ký, người dùng có thể làm gì?",
+        "answer": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân.",
+        "context": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân."
+    },
+    {
+        "id": 24,
+        "question": "Phần mềm HIS có hỗ trợ chỉ định dịch vụ cho bệnh nhân trực tiếp tại tiếp đón không?",
+        "answer": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ.",
+        "context": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ."
+    },
+    {
+        "id": 25,
+        "question": "Nếu nhập sai thông tin mã thẻ BHYT, phần mềm sẽ phản hồi như thế nào?",
+        "answer": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai.",
+        "context": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai."
+    },
+    {
+        "id": 26,
+        "question": "Người dùng cần làm gì khi gặp lỗi không tìm thấy bệnh nhân?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để chỉ định dịch vụ khám cho bệnh nhân mà không qua phòng khám?",
+        "answer": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón.",
+        "context": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón."
+    },
+    {
+        "id": 28,
+        "question": "Khi nào cần sử dụng chức năng sửa yêu cầu khám?",
+        "answer": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại.",
+        "context": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại."
+    },
+    {
+        "id": 29,
+        "question": "Phần mềm HIS có hỗ trợ in hóa đơn ngay sau khi đăng ký bệnh nhân không?",
+        "answer": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân.",
+        "context": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân."
+    },
+    {
+        "id": 30,
+        "question": "Người dùng có thể sửa thông tin bệnh nhân bằng cách nào?",
+        "answer": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 1,
+        "question": "Phân hệ tiếp đón trong hệ thống quản lý bệnh viện HIS có nhiệm vụ gì?",
+        "answer": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng.",
+        "context": "Phân hệ tiếp đón giúp nhân viên đăng ký thông tin bệnh nhân, phân công dịch vụ và quản lý hàng đợi bệnh nhân tại các khoa phòng."
+    },
+    {
+        "id": 2,
+        "question": "Làm thế nào để người dùng đăng nhập vào phần mềm tiếp đón?",
+        "answer": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp.",
+        "context": "Người dùng đăng nhập vào phần mềm bằng tài khoản và mật khẩu được cấp."
+    },
+    {
+        "id": 3,
+        "question": "Chức năng 'Danh sách bệnh nhân' trong phân hệ tiếp đón có ý nghĩa gì?",
+        "answer": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp.",
+        "context": "Chức năng này lưu trữ thông tin hành chính của bệnh nhân như họ tên, tuổi, địa chỉ, số điện thoại, và nghề nghiệp."
+    },
+    {
+        "id": 4,
+        "question": "Phần mềm HIS có hỗ trợ đăng ký bệnh nhân BHYT bằng cách nào?",
+        "answer": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD.",
+        "context": "Có thể sử dụng máy đọc mã vạch, nhập thủ công số thẻ BHYT, hoặc sử dụng mã bệnh nhân, CMND/CCCD."
+    },
+    {
+        "id": 5,
+        "question": "Làm thế nào để xử lý khi nhập sai thông tin họ tên hoặc ngày sinh của bệnh nhân?",
+        "answer": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin.",
+        "context": "Người dùng có thể vào danh sách bệnh nhân hoặc hồ sơ điều trị để chỉnh sửa thông tin."
+    },
+    {
+        "id": 6,
+        "question": "Chức năng đổi phòng khám của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân.",
+        "context": "Chức năng này cho phép thay đổi phòng khám đã đăng ký trước đó của bệnh nhân."
+    },
+    {
+        "id": 7,
+        "question": "Khi bệnh nhân quay lại khám lần 2, làm thế nào để đăng ký nhanh?",
+        "answer": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân.",
+        "context": "Có thể dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để đăng ký nhanh cho bệnh nhân."
+    },
+    {
+        "id": 8,
+        "question": "Làm sao để biết thẻ BHYT của bệnh nhân hợp lệ?",
+        "answer": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật.",
+        "context": "Sau khi nhập thông tin bệnh nhân, hệ thống sẽ hiển thị thẻ BHYT có hợp lệ hay không. Nếu hợp lệ, sẽ hiện thông tin thẻ, nếu không, sẽ yêu cầu cập nhật."
+    },
+    {
+        "id": 9,
+        "question": "Người dùng cần làm gì nếu gặp lỗi không thể kết nối tới máy chủ?",
+        "answer": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không.",
+        "context": "Kiểm tra địa chỉ máy chủ trong cấu hình, kiểm tra kết nối mạng và xem có phần mềm diệt virus chặn kết nối không."
+    },
+    {
+        "id": 10,
+        "question": "Nếu bệnh nhân yêu cầu thay đổi dịch vụ khám, làm thế nào để sửa?",
+        "answer": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám.",
+        "context": "Người dùng vào danh sách y lệnh, chọn xóa hoặc sửa yêu cầu dịch vụ khám."
+    },
+    {
+        "id": 11,
+        "question": "Chức năng tra cứu hồ sơ điều trị giúp ích gì?",
+        "answer": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân.",
+        "context": "Chức năng này giúp tìm kiếm thông tin điều trị, bảng kê chi phí, và lịch sử điều trị của bệnh nhân."
+    },
+    {
+        "id": 12,
+        "question": "Người dùng cần làm gì khi nhập sai số điện thoại của bệnh nhân?",
+        "answer": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân.",
+        "context": "Có thể vào danh sách bệnh nhân và chọn sửa thông tin bệnh nhân."
+    },
+    {
+        "id": 13,
+        "question": "Chức năng xuất biên lai/hóa đơn được sử dụng trong tình huống nào?",
+        "answer": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân.",
+        "context": "Chức năng này dùng để thu tiền trực tiếp từ tiếp đón và xuất biên lai hoặc hóa đơn cho bệnh nhân."
+    },
+    {
+        "id": 14,
+        "question": "Làm thế nào để thêm yêu cầu sử dụng sổ biên lai/hóa đơn?",
+        "answer": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt.",
+        "context": "Người dùng vào chức năng yêu cầu sử dụng sổ biên lai và gửi yêu cầu đến nhân viên thu ngân để duyệt."
+    },
+    {
+        "id": 15,
+        "question": "Nếu nhập sai mật khẩu khi đăng nhập, cần làm gì?",
+        "answer": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu.",
+        "context": "Người dùng cần thoát phần mềm gõ tiếng Việt và thử đăng nhập lại, nếu vẫn không được cần liên hệ quản trị để khôi phục mật khẩu."
+    },
+    {
+        "id": 16,
+        "question": "Tính năng tra cứu lịch sử điều trị của phần mềm dùng để làm gì?",
+        "answer": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống.",
+        "context": "Tính năng này giúp tra cứu lịch sử điều trị của một hoặc nhiều bệnh nhân trong hệ thống."
+    },
+    {
+        "id": 17,
+        "question": "Khi hệ thống báo lỗi tài khoản không được thiết lập quyền truy cập, người dùng phải làm gì?",
+        "answer": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân.",
+        "context": "Người dùng cần liên hệ quản trị để được gán vai trò và thiết lập quyền truy cập vào phân hệ thu ngân."
+    },
+    {
+        "id": 18,
+        "question": "Làm thế nào để tìm kiếm bệnh nhân đã từng đến khám?",
+        "answer": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại.",
+        "context": "Người dùng có thể tìm kiếm theo mã bệnh nhân, mã điều trị, hoặc điều chỉnh ngày tìm kiếm trong tháng hiện tại."
+    },
+    {
+        "id": 19,
+        "question": "Chức năng 'Cập nhật thẻ' của phần mềm có mục đích gì?",
+        "answer": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân.",
+        "context": "Chức năng này cho phép chỉnh sửa thông tin thẻ BHYT của bệnh nhân."
+    },
+    {
+        "id": 20,
+        "question": "Làm thế nào để đổi đối tượng bệnh nhân từ viện phí sang BHYT?",
+        "answer": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân.",
+        "context": "Người dùng vào hồ sơ điều trị, chọn dòng thời gian và chỉnh sửa đối tượng của bệnh nhân."
+    },
+    {
+        "id": 21,
+        "question": "Phần mềm quản lý bệnh viện HIS có tính năng gì để hỗ trợ tiếp nhận bệnh nhân nhanh chóng?",
+        "answer": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng.",
+        "context": "Phần mềm HIS hỗ trợ dùng mã hẹn khám, mã bệnh nhân, hoặc CMND/CCCD để tiếp nhận bệnh nhân nhanh chóng."
+    },
+    {
+        "id": 22,
+        "question": "Chức năng danh sách y lệnh cho phép thực hiện những gì?",
+        "answer": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra.",
+        "context": "Chức năng này cho phép tra cứu và chỉnh sửa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra."
+    },
+    {
+        "id": 23,
+        "question": "Nếu muốn thay đổi phòng khám đã đăng ký, người dùng có thể làm gì?",
+        "answer": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân.",
+        "context": "Người dùng có thể vào chức năng đổi phòng khám để thay đổi phòng khám đã đăng ký cho bệnh nhân."
+    },
+    {
+        "id": 24,
+        "question": "Phần mềm HIS có hỗ trợ chỉ định dịch vụ cho bệnh nhân trực tiếp tại tiếp đón không?",
+        "answer": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ.",
+        "context": "Có, người dùng có thể chỉ định dịch vụ trực tiếp không cần nhập mã ICD chính và phụ."
+    },
+    {
+        "id": 25,
+        "question": "Nếu nhập sai thông tin mã thẻ BHYT, phần mềm sẽ phản hồi như thế nào?",
+        "answer": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai.",
+        "context": "Phần mềm sẽ hiển thị thông báo yêu cầu cập nhật lại thông tin trên cổng thông tin nếu thông tin mã thẻ BHYT sai."
+    },
+    {
+        "id": 26,
+        "question": "Người dùng cần làm gì khi gặp lỗi không tìm thấy bệnh nhân?",
+        "answer": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất.",
+        "context": "Người dùng cần kiểm tra điều kiện tìm kiếm và phiên bản phần mềm để đảm bảo cập nhật phiên bản mới nhất."
+    },
+    {
+        "id": 27,
+        "question": "Làm thế nào để chỉ định dịch vụ khám cho bệnh nhân mà không qua phòng khám?",
+        "answer": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón.",
+        "context": "Người dùng có thể sử dụng chức năng chỉ định trực tiếp trong phần tiếp đón."
+    },
+    {
+        "id": 28,
+        "question": "Khi nào cần sử dụng chức năng sửa yêu cầu khám?",
+        "answer": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại.",
+        "context": "Chức năng sửa yêu cầu khám được sử dụng khi cần thay đổi loại khám, ví dụ từ khám nội sang khám ngoại."
+    },
+    {
+        "id": 29,
+        "question": "Phần mềm HIS có hỗ trợ in hóa đơn ngay sau khi đăng ký bệnh nhân không?",
+        "answer": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân.",
+        "context": "Có, phần mềm hỗ trợ in hóa đơn ngay sau khi đăng ký hoàn tất cho bệnh nhân."
+    },
+    {
+        "id": 30,
+        "question": "Người dùng có thể sửa thông tin bệnh nhân bằng cách nào?",
+        "answer": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân.",
+        "context": "Người dùng vào danh sách bệnh nhân hoặc hồ sơ điều trị để sửa thông tin bệnh nhân."
+    }
+]
