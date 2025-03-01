@@ -20,7 +20,7 @@ def call_gemini_api(question, api_key):
         return f"Lỗi {response.status_code}: {response.text}"
 
 def generate_query_with_gemini(query, api_key, model, index, documents):
-    similar_documents = search_similar_documents(query, model, index, documents, top_k=10)
+    similar_documents = search_similar_documents(query, model, index, documents, top_k=2)
     combined_context = "\n".join([f"Document {i+1}: {doc}" for i, doc in enumerate(similar_documents)])
     combined_question = (
         f"Với các thông tin sau đây:\n{combined_context}\n"
